@@ -12,13 +12,13 @@ const team = [
   {
     name: 'Vangala Prasad Reddy',
     role: 'Hydrogeologist',
-    image: 'src/public/daddy.jpg',
+    image: '/daddy.jpg',
     description: 'Ph.D. in Hydrogeology with 15+ years of experience in groundwater exploration. Pioneer in implementing advanced geophysical techniques for water detection.',
   },
   {
     name: 'Byreddy Ranga Reddy ',
     role: 'Hydrogeologist',
-    image: 'src/public/uncle.jpg',
+    image: '/uncle.jpg',
     description: 'Ph.D. in Hydrogeology with 20+ years of experience in groundwater exploration. Pioneer in implementing advanced geophysical techniques for water detection.',
   },
 ];

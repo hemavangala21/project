@@ -5,20 +5,20 @@ const successStories = [
   {
     title: 'Success points',
     description: 'One of our success story in munipalli, sangareddy district',
-    image: 'src/public/1.jpg',
+    image: '/1.jpg',
     videoId: 'FJTGQyg5mIQ',
   },
   {
     title: 'Success points',
     description: 'Our success story in Pedhamma tanda, Medak district',
-    image: 'src/public/2.jpg',
+    image: '/2.jpg',
     videoId: 'Nr65aWFm6yA',
   },
 
   {
     title: 'Youtube Video',
     description: 'Can Groundwater Increase After Drilling a Borewell?',
-    image: 'src/public/yt2.jpg',
+    image: '/yt2.jpg',
     videoId: 'VPN1yLAxFD8',
   },
 ];

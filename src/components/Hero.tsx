@@ -3,7 +3,7 @@ import { ArrowRight } from 'lucide-react';
 
 export default function Hero() {
   return (
-    <div id="home" className="relative min-h-screen flex items-center absolute bottom-0 left-0 right-0 h-64 bg-[url('src/public/gw3.jpg')] bg-cover">
+    <div id="home" className="relative min-h-screen flex items-center absolute bottom-0 left-0 right-0 h-64 bg-[url('/gw3.jpg')] bg-cover">
       {/* Primary Background */}
       {/* <div className="absolute inset-0 z-0">
         <img
